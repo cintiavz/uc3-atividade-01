@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+    font-family: Times serif;
+}
+
+h1{
+    color: black;
+}
+ 
+p{
+    color: rgb(94, 9, 173);
+}
+
+.centralizado{
+    text-align: center;
+}
